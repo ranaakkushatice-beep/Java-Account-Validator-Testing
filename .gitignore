@@ -1,0 +1,19 @@
+# Derleme (Build) çıktıları
+target/
+out/
+bin/
+
+# IDE (Kod Editörü) ayarları
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# İşletim sistemi geçici dosyaları
+Thumbs.db
+.DS_Store
+
+# Log dosyaları
+*.log
